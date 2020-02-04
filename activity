@@ -1,0 +1,58 @@
+<html>
+<body bgcolor="lightblue">
+<h1 align="center"><u>Nested list,Marquee,Font</u></h1>
+<marquee dir="left">Submit this activity soon</marquee>
+<p> <font face="Times new roman" color = "black" size="4">I am the new text<font></p1>
+<ul type="square">
+<li> fruits
+<ol type="i">
+<li>Banana
+<ul type="i">
+<li>yellow</li>
+</ul>
+</li>
+<li> Apple </li>
+</ul>
+</li>
+<li> vegetables
+<ol type="a" start="2">
+<li>tomato</li>
+<li> potato</li>
+</ol> 
+</li>
+</ul>
+<table border = "3" align = "center">
+<tr>
+<th bgclor="lightblue">SECTION</th>
+<th bgclor="lightred">NAME</th>
+<th bgclor="lightgreen">IDNO</th>
+</tr>
+<tr>
+<td rowspan="3">6CSE6</td>
+<td bgclor="lightred">Lokesh kumar B</td>
+<td bgclor="lightgreen">20171CSE0345</td>
+</tr>
+<td bgclor="lightred">Prajwal</td>
+<td bgclor="lightgreen">20171CSE0347</td>
+</tr>
+<tr>
+<td bgclor="lightred">Subbu</td>
+<td bgclor="lightgreen">20171CSE0382</td>
+</tr>
+
+<dl>
+<dt> CSE </dt>
+<dd> <ol type="a">
+<li> Operating System </li>
+<li> Algorithms  </li>
+<li>  Data Structures </li> 
+</ol></dd>
+<dt> ECE </dt>
+<dd> <ol type="i">
+<li> Wireless networks </li>
+<li> Digital Electronics </li>
+<li>  Embeded networks </li> 
+</ol></dd>
+</dl>
+</body>
+<html>
